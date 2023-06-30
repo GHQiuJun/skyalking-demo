@@ -32,7 +32,7 @@
 
 #### 配置 Java 程序启动参数
 - agent 包位于解压缩包 agent 目录下
-![img_4.png](src/img_4.png)
+![img_4.png](img/img_4.png)
 
 - IDE 点击run-->Edit Configurations-->Add VM options 添加如下参数
 ```
